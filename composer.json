@@ -1,0 +1,8 @@
+{
+    "require": {
+        "php-ffmpeg/php-ffmpeg": "^0.11.0",
+        "princeyadav05/youtubetomp3": "v1.1",
+        "norkunas/youtube-dl-php": "^1.0",
+        "wa72/htmlpagedom": "^1.3"
+    }
+}

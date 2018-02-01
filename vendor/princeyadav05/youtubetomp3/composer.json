@@ -1,0 +1,23 @@
+{
+    "name": "princeyadav05/youtubetomp3",
+    "description": "Downloads Mp3 given video_id from Youtube",
+    "type": "package",
+    "require": {
+        "php-ffmpeg/php-ffmpeg": "^0.11.0"
+    },
+    "authors": [
+        {
+            "name": "Prince Yadav",
+            "email": "prrinceyadav96@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "youtubetomp3": "src"
+        }
+    },
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "4.8.*"
+    }
+}
